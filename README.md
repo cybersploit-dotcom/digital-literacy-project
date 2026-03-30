@@ -19,4 +19,4 @@ and cybercrime awareness.
 - **Task 5:** Phishing case study + prevention checklist
 
 ## Google Form Quiz Link
-[Click here to take the Digital Literacy Quiz]()
+[Click here to take the Digital Literacy Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeHZ_Z9wn53iNtaiMCB0oxoIYvVD8W5a_JfTckKgFs0WLw-Pg/viewform)
